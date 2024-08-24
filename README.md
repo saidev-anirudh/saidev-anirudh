@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  - 📫 How to reach me [link]sai44dev44@gmail.com
+  - 📫 How to reach me: sai44dev44@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
