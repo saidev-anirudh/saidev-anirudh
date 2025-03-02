@@ -13,58 +13,51 @@
 **Professional Experience**
 
 **NYX AI (Sep 2024 - Present)**
-Architected Multi-Agent Systems using LangGraph, Crew AI, and AutoGen frameworks, targeting 75% efficiency improvement in campaign analysis
 
-Developed video analysis systems improving marketing metrics by 25% using advanced clustering algorithms
-
-Led a team of interns in Text-to-Video system development, achieving 85% project milestone completion
-
-Created image analysis services with FastAPI that improved CTR performance predictions
-
-Engineered custom LoRa fine-tuning solutions achieving 96% product placement accuracy
-
-Optimized budget allocation by 35% using XGBoost-based prediction model
+- Architected Multi-Agent Systems using LangGraph, Crew AI, and AutoGen frameworks, targeting 75% efficiency improvement in campaign analysis
+- Developed video analysis systems improving marketing metrics by 25% using advanced clustering algorithms
+- Led a team of interns in Text-to-Video system development, achieving 85% project milestone completion
+- Created image analysis services with FastAPI that improved CTR performance predictions
+- Engineered custom LoRa fine-tuning solutions achieving 96% product placement accuracy
+- Optimized budget allocation by 35% using XGBoost-based prediction model
 
 **Genpact (Feb 2024 - Aug 2024)**
-Enhanced loan detection models by 6% for major NBFC using custom risk analysis algorithms
 
-Developed AI-driven document query systems with custom RAG pipelines
-
-Created Power BI dashboards with advanced visualizations, increasing data interpretation efficiency by 30%
+- Enhanced loan detection models by 6% for major NBFC using custom risk analysis algorithms
+- Developed AI-driven document query systems with custom RAG pipelines
+- Created Power BI dashboards with advanced visualizations, increasing data interpretation efficiency by 30%
 
 **What I've Been Working On**
 
 🤖 Agentic Workflows: Crafting comprehensive and detailed agentic workflows to optimize and automate the campaign marketing industry with AI.
-
 🚀 Video Analysis Systems: Optimized marketing metrics by implementing clustering algorithms (fuzzy C-means, AHA-clustering) and temporal motion analysis for precise key frame detection.
-
 🤖 Generative AI Ecosystems: Developed multi-agent systems using LangChain, Crew AI, and AutoGen frameworks to improve campaign analysis efficiency by 75%.
-
 📊 Predictive Modeling: Created multivariate forecasting models (Prophet, LSTM) and XGBoost-based budget allocation systems to boost client revenue by 25%.
-
 🛠️ Custom LoRA Fine-Tuning: Enhanced product placement accuracy to 96% using Flux Dev workflows.
-
 🔒 Cybersecurity Enhancements: Improved Power BI security on Azure with Dynamic RLS and Node.js filtering systems.
 
 **Personal Projects**
 
 **UHI Prediction**
-A model to predict potential urban heat island (UHI) hotspots in city environments using geospatial data and environmental variables.
+
+- A model to predict potential urban heat island (UHI) hotspots in city environments using geospatial data and environmental variables.
 
 **Model Visualization**
-An agentic system to assess codebases and create visualizations on data, model interpretation, and flow visualization. Future plans include text-to-query and text-to-visual RAG engine features.
+
+- An agentic system to assess codebases and create visualizations on data, model interpretation, and flow visualization. Future plans include text-to-query and text-to-visual RAG engine features.
 
 **Portfolio Website**
-Personal portfolio website showcasing introductory information, projects, and a tentative blog about my professional journey and technical insights.
+
+- Personal portfolio website showcasing introductory information, projects, and a tentative blog about my professional journey and technical insights.
 
 **Agentic Cold Email Generator (CrewAI)**
-AI Multi-Agent workflow interactive cold email generator that creates customized emails for job applications by analyzing job descriptions and matching them with resume details. The system can also draft emails to potential recruiters by scraping various sites.
+
+- AI Multi-Agent workflow interactive cold email generator that creates customized emails for job applications by analyzing job descriptions and matching them with resume details. The system can also draft emails to potential recruiters by scraping various sites.
 
 **Achievements**
+
 🥇 Increased CTR prediction accuracy by analyzing over 5000+ images using centroid-based vector DB comparisons.
-
 🎖️ Delivered cost-efficient image generation APIs with advanced OpenAI fine-tuning.
-
 🏆 Awarded **"Best Performing Team"** by Signal Corp. Ltd. in collaboration with the University of Auckland for the most innovative solution to a complex security threat detection problem.
 
 **Skills**
@@ -73,7 +66,7 @@ AI Multi-Agent workflow interactive cold email generator that creates customized
 
 **Languages:** Python, C, SQL, Node.js1, Java
 
-**ML/AI: ** Deep Learning, Neural Networks, Computer Vision, NLP, RAG, LLMs
+**ML/AI:** Deep Learning, Neural Networks, Computer Vision, NLP, RAG, LLMs
 
 **Frameworks:** TensorFlow, Keras, PyTorch, LangChain, LangGraph, Crew AI, AutoGen, Prophet, LSTM, XGBoost
 
@@ -89,21 +82,14 @@ AI Multi-Agent workflow interactive cold email generator that creates customized
 
 Red-X Manipal, Advisory Board
 
-Directed a 150+ member club, overseeing finances, events, and logistics
-
-Drove strategies resulting in increased membership by 50% and engagement
-
-Organized charity drives and physical treks to promote well-being
+- Directed a 150+ member club, overseeing finances, events, and logistics
+- Drove strategies resulting in increased membership by 50% and engagement
+- Organized charity drives and physical treks to promote well-being
 
 **Connect with me**
+
 📫 Email: sai44dev44@gmail.com
 
-📱 Phone: +9196112452051
-
-📍 Location: Bangalore, 5601021
-
-🌐 LinkedIn: Sai Dev Anirudh Thatode
-
-💻 GitHub: Available upon request
+📍 Location: Bangalore, India
 
 💬 Ask me about Python, Machine Learning, Deep Learning, Generative AI Models or Agentic Frameworks (LangChain, LangGraph, Crew AI, AutoGen)
