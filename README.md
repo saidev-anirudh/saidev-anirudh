@@ -30,10 +30,15 @@
 **What I've Been Working On**
 
 🤖 Agentic Workflows: Crafting comprehensive and detailed agentic workflows to optimize and automate the campaign marketing industry with AI.
+
 🚀 Video Analysis Systems: Optimized marketing metrics by implementing clustering algorithms (fuzzy C-means, AHA-clustering) and temporal motion analysis for precise key frame detection.
+
 🤖 Generative AI Ecosystems: Developed multi-agent systems using LangChain, Crew AI, and AutoGen frameworks to improve campaign analysis efficiency by 75%.
+
 📊 Predictive Modeling: Created multivariate forecasting models (Prophet, LSTM) and XGBoost-based budget allocation systems to boost client revenue by 25%.
+
 🛠️ Custom LoRA Fine-Tuning: Enhanced product placement accuracy to 96% using Flux Dev workflows.
+
 🔒 Cybersecurity Enhancements: Improved Power BI security on Azure with Dynamic RLS and Node.js filtering systems.
 
 **Personal Projects**
@@ -57,7 +62,9 @@
 **Achievements**
 
 🥇 Increased CTR prediction accuracy by analyzing over 5000+ images using centroid-based vector DB comparisons.
+
 🎖️ Delivered cost-efficient image generation APIs with advanced OpenAI fine-tuning.
+
 🏆 Awarded **"Best Performing Team"** by Signal Corp. Ltd. in collaboration with the University of Auckland for the most innovative solution to a complex security threat detection problem.
 
 **Skills**
